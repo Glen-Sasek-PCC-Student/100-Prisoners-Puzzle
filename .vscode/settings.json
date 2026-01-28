@@ -1,0 +1,6 @@
+{
+    "editor.stickyScroll.enabled": false,
+    "git.confirmSync": false,
+    "git.autofetch": true,
+    "git.postCommitCommand": "sync"
+}
